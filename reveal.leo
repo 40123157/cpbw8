@@ -43,6 +43,7 @@
 <v t="leo.20151116031418.1"><vh>@edit 40123157_cp_w5.md</vh></v>
 <v t="leo.20151116031427.1"><vh>@edit 40123157_cp_w6.md</vh></v>
 <v t="leo.20151116031506.1"><vh>@edit 40123157_cp_w7.md</vh></v>
+<v t="leo.20151116072753.1"><vh>@edit 40123157_cp_w8.md</vh></v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20151116031556.1"><vh>@edit 40123157_cp_w1_p.html</vh></v>
@@ -51,6 +52,7 @@
 <v t="leo.20151116031629.1"><vh>@edit 40123157_cp_w5_p.html</vh></v>
 <v t="leo.20151116031638.1"><vh>@edit 40123157_cp_w6_p.html</vh></v>
 <v t="leo.20151116031647.1"><vh>@edit 40123157_cp_w7_p.html</vh></v>
+<v t="leo.20151116072736.1"><vh>@edit 40123157_cp_w8_p.html</vh></v>
 </v>
 <v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
