@@ -31,7 +31,7 @@
 <v t="amd.20150920030003.1"><vh>IPython notebook 整合</vh></v>
 <v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
-<v t="leo.20151116031906.1"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160115143217.1"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
@@ -44,6 +44,7 @@
 <v t="leo.20151116031427.1"><vh>@edit 40123157_cp_w6.md</vh></v>
 <v t="leo.20151116031506.1"><vh>@edit 40123157_cp_w7.md</vh></v>
 <v t="leo.20151116072753.1"><vh>@edit 40123157_cp_w8.md</vh></v>
+<v t="leo.20160115143125.1"><vh>@edit 40123157_cp_w9.md</vh></v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20151116031556.1"><vh>@edit 40123157_cp_w1_p.html</vh></v>
